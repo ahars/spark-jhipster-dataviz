@@ -1,1 +1,1 @@
-# spark-sandbox
+# spark-jhipster-dataviz
