@@ -1,0 +1,3 @@
+[submodule "dataviz-jhipster-app"]
+	path = dataviz-jhipster-app
+	url = http://github.com/ahars/dataviz-jhipster
