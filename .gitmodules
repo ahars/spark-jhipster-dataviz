@@ -1,3 +1,6 @@
 [submodule "dataviz-jhipster-app"]
 	path = dataviz-jhipster-app
 	url = http://github.com/ahars/dataviz-jhipster
+[submodule "spark-processing"]
+	path = spark-processing
+	url = http://github.com/ahars/spark-sandbox
